@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+a.active {
+    @apply  bg-gradient-to-l from-blue-700 to-blue-400 border-none rounded-lg text-white
+} */
+
