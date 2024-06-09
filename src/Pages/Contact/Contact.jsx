@@ -2,7 +2,7 @@ import emailjs from "@emailjs/browser";
 import { useRef } from "react";
 import { FaPhoneVolume, FaWhatsapp } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
-import MapChart from "./MapChart";
+// import MapChart from "./MapChart";
 
 const Contact = () => {
   const form = useRef();
@@ -44,7 +44,7 @@ const Contact = () => {
            <div className=" text-start lg:text-left">
 
             <div>
-            <MapChart></MapChart>
+            {/* <MapChart></MapChart> */}
               
             </div>
 
